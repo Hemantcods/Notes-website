@@ -11,6 +11,9 @@ h2 {
     text-align: center;
     color: #333;
 }
+.a{
+    text-align: center;
+}
 
 input[type="file"] {
     margin: 10px 0;
